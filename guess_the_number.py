@@ -8,7 +8,7 @@ number = number_generator.randint(1, 10)
 
 # The following code is used to print the generated number: print("The random number is", number)
 
-print("Please, enter a number between 1 and 10")
+print("Please, guess a number between 1 and 10")
 
 # Asks the user for input and checks if it is an integer number
 while True:
