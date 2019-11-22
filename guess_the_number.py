@@ -6,7 +6,7 @@ number_generator = secrets.SystemRandom()
 
 number = number_generator.randint(1, 10)
 
-print("The random number is", number)
+# The following code is used to print the generated number: print('The generated number is', number)
 
 print('Please, guess a number between 1 and 10')
 
